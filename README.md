@@ -1,4 +1,4 @@
-# Crowdd-City-Demo-Unity
+# Crownded-it!-Demo-Unity
 A simple simulation game
 Differences from Crowd-City:
 - Make a point of Main Caracter's of Teams. The most important thing to capture team is capturing the main caracter first.
